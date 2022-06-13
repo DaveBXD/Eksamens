@@ -6,7 +6,7 @@ public class Testins {
 		
 		
 		if(minejums.equals(atbilde)){
-			pareizie++;
+			pareizie=pareizie+1;
 		}
 		
 
