@@ -1,8 +1,12 @@
 # Eksamens
 
-Eksamena uzdevumi par Tēmu divdimensiju masīvi.
+Eksamena uzdevumi par Tēmu divdimensiju masīvi programmešanas valoda java.
 
 
-- [ ] tests
+- [ ] Informatīva tēmas izsklasta prezentacija
+- [ ] Izstrādat programmatūru (Tests)
+- [ ] Izveidot 20 testpiemerus
+- [ ] Izstradat testu lidz noteiktajam laikam
 
-- [ ] tests
+
+- [ ] Izstrādat prezentaciju 7-10 min garuma.
