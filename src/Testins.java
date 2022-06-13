@@ -32,6 +32,79 @@ public class Testins {
 		atbilde = "bc";
 		pareizie = minesana(pareizie,atbilde);
 		
+		System.out.println("\n2. Testa jautajums"
+							+"\na) 1"
+							+"\nb) 2"
+							+"\nc) 3"
+							+"\nd) 4");
+		atbilde = "bc";
+		pareizie = minesana(pareizie,atbilde);
+		
+		System.out.println("\n3. Testa jautajums"
+				+"\na) 1"
+				+"\nb) 2"
+				+"\nc) 3"
+				+"\nd) 4");
+		atbilde = "bc";
+		pareizie = minesana(pareizie,atbilde);
+		
+		System.out.println("\n4. Testa jautajums"
+				+"\na) 1"
+				+"\nb) 2"
+				+"\nc) 3"
+				+"\nd) 4");
+		atbilde = "bc";
+		pareizie = minesana(pareizie,atbilde);
+		
+		System.out.println("\n5. Testa jautajums"
+				+"\na) 1"
+				+"\nb) 2"
+				+"\nc) 3"
+				+"\nd) 4");
+		atbilde = "bc";
+		pareizie = minesana(pareizie,atbilde);
+		
+		System.out.println("\n6. Testa jautajums"
+				+"\na) 1"
+				+"\nb) 2"
+				+"\nc) 3"
+				+"\nd) 4");
+		atbilde = "bc";
+		pareizie = minesana(pareizie,atbilde);
+
+		System.out.println("\n7. Testa jautajums"
+				+"\na) 1"
+				+"\nb) 2"
+				+"\nc) 3"
+				+"\nd) 4");
+		atbilde = "bc";
+		pareizie = minesana(pareizie,atbilde);
+
+		System.out.println("\n8. Testa jautajums"
+				+"\na) 1"
+				+"\nb) 2"
+				+"\nc) 3"
+				+"\nd) 4");
+		atbilde = "bc";
+		pareizie = minesana(pareizie,atbilde);
+
+		System.out.println("\n9. Testa jautajums"
+				+"\na) 1"
+				+"\nb) 2"
+				+"\nc) 3"
+				+"\nd) 4");
+		atbilde = "bc";
+		pareizie = minesana(pareizie,atbilde);
+
+		System.out.println("\n10. Testa jautajums"
+				+"\na) 1"
+				+"\nb) 2"
+				+"\nc) 3"
+				+"\nd) 4");
+		atbilde = "bc";
+		pareizie = minesana(pareizie,atbilde);
+
+
 	}
 
 }
