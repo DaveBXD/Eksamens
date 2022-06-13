@@ -121,7 +121,7 @@ public class Testins {
 		minejums = dati.next().toLowerCase();
 		pareizie = minesana(pareizie,atbilde,minejums);
 		
-		System.out.print("Tu atbildēji pareizi uz "+pareizie+" no 10 jautājumiem.");
+		System.out.print("\nTu atbildēji pareizi uz "+pareizie+" no 10 jautājumiem.");
 
 		dati.close();
 	}
