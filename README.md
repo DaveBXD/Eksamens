@@ -4,7 +4,7 @@ Eksamena uzdevumi par Tēmu divdimensiju masīvi programmešanas valoda java.
 
 
 - [x] Informatīva tēmas izsklasta prezentacija
-    - [ ] Prezentacija iekļaut 5 īsus programmas kodu piemerus.
+    - [x] Prezentacija iekļaut 5 īsus programmas kodu piemerus.
     - [x] Prezentacija iekļaut izvēlētas tēmas izklāstu.
 
 - [x] Izstrādat programmatūru (Tests)
@@ -15,7 +15,7 @@ Eksamena uzdevumi par Tēmu divdimensiju masīvi programmešanas valoda java.
 
 
 - [ ] Izveidot 20 testpiemerus
-- [ ] Izstradat testu lidz noteiktajam laikam
+- [x] Izstradat testu lidz noteiktajam laikam
 
 
 - [ ] Izstrādat prezentaciju 7-10 min garuma.
